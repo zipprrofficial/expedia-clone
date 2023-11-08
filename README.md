@@ -1,4 +1,4 @@
-An <a href="https://zipprr.com/category/expedia-clone/">Expedia clone script</a> is an online travel booking platform that allows users to search, compare, and book flights, hotels, packages, and other travel services from a single website or app, similar to Expedia.
+An <a href="https://zipprr.com/expedia-clone/">Expedia clone script</a> is an online travel booking platform that allows users to search, compare, and book flights, hotels, packages, and other travel services from a single website or app, similar to Expedia.
 
 <h2><b>Important Features</b></h2>
 
